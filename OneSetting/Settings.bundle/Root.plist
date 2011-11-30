@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>PreferenceSpecifiers</key>
-        <array>
-            <dict>
-                <key>Title</key>
-                <string></string>
-                <key>Type</key>
-                <string>PSGroupSpecifier</string>
-            </dict>
-            <dict>
-                <key>Type</key>
-                <string>PSMultiValueSpecifier</string>
-                <key>Title</key>
-                <string>Settings</string>
-                <key>Key</key>
-                <string>setting</string>
-                <key>DefaultValue</key>
-                <string>None</string>
-                <key>Values</key>
-                <array>
-                    <string>None</string>
-                    <string>About</string>
-                    <string>Accessibility</string>
-                    <string>Airplane</string>
-                    <string>Brightness</string>
-                    <string>Bluetooth</string>
-                    <string>Cellular Usage</string>
-                    <string>Date And Time</string>
-                    <string>FaceTime</string>
-                    <string>General</string>
-                    <string>Hotspot</string>
-                    <string>iCloud</string>
-                    <string>iCloud Storage And Backup</string>
-                    <string>International</string>
-                    <string>Keyboard</string>
-                    <string>Location Services</string>
-                    <string>Mail Contacts and Calendars</string>
-                    <string>Music</string>
-                    <string>MusicEq</string>
-                    <string>Music Volume</string>
-                    <string>Network</string>
-                    <string>Nike</string>
-                    <string>Notes</string>
-                    <string>Notifications</string>
-                    <string>Phone</string>
-                    <string>Photos</string>
-                    <string>Profile</string>
-                    <string>Reset</string>
-                    <string>Ringtone</string>
-                    <string>Safari</string>
-                    <string>Siri</string>
-                    <string>Sounds</string>
-                    <string>Software Update</string>
-                    <string>Store</string>
-                    <string>Twitter</string>
-                    <string>Usage</string>
-                    <string>Video</string>
-                    <string>VPN</string>
-                    <string>Wallpaper</string>
-                    <string>WiFi</string>
-                </array>
-                <key>Titles</key>
-                <array>
-                    <string>None</string>
-                    <string>About</string>
-                    <string>Accessibility</string>
-                    <string>Airplane</string>
-                    <string>Brightness</string>
-                    <string>Bluetooth</string>
-                    <string>Cellular Usage</string>
-                    <string>Date And Time</string>
-                    <string>FaceTime</string>
-                    <string>General</string>
-                    <string>Hotspot</string>
-                    <string>iCloud</string>
-                    <string>iCloud Storage And Backup</string>
-                    <string>International</string>
-                    <string>Keyboard</string>
-                    <string>Location Services</string>
-                    <string>Mail Contacts and Calendars</string>
-                    <string>Music</string>
-                    <string>MusicEq</string>
-                    <string>Music Volume</string>
-                    <string>Network</string>
-                    <string>Nike</string>
-                    <string>Notes</string>
-                    <string>Notifications</string>
-                    <string>Phone</string>
-                    <string>Photos</string>
-                    <string>Profile</string>
-                    <string>Reset</string>
-                    <string>Ringtone</string>
-                    <string>Safari</string>
-                    <string>Siri</string>
-                    <string>Sounds</string>
-                    <string>Software Update</string>
-                    <string>Store</string>
-                    <string>Twitter</string>
-                    <string>Usage</string>
-                    <string>Video</string>
-                    <string>VPN</string>
-                    <string>Wallpaper</string>
-                    <string>WiFi</string>
-                </array>
-            </dict>
-            <dict>
-                <key>Type</key>
-                <string>PSGroupSpecifier</string>
-                <key>Title</key>
-                <string>This is just a closer integration with the system. </string>
-            </dict>
-        </array>
-        <key>StringsTable</key>
-        <string>Root</string>
-    </dict>
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Settings</string>
+			<key>Key</key>
+			<string>setting</string>
+			<key>DefaultValue</key>
+			<string>None</string>
+			<key>Values</key>
+			<array>
+				<string>None</string>
+				<string>About</string>
+				<string>Accessibility</string>
+				<string>Airplane</string>
+				<string>Brightness</string>
+				<string>Bluetooth</string>
+				<string>Cellular Usage</string>
+				<string>Date And Time</string>
+				<string>FaceTime</string>
+				<string>General</string>
+				<string>Hotspot</string>
+				<string>iCloud</string>
+				<string>iCloud Storage And Backup</string>
+				<string>International</string>
+				<string>Keyboard</string>
+				<string>Location Services</string>
+				<string>Mail Contacts and Calendars</string>
+				<string>Music</string>
+				<string>MusicEq</string>
+				<string>Music Volume</string>
+				<string>Network</string>
+				<string>Nike</string>
+				<string>Notes</string>
+				<string>Notifications</string>
+				<string>Phone</string>
+				<string>Photos</string>
+				<string>Profile</string>
+				<string>Reset</string>
+				<string>Ringtone</string>
+				<string>Safari</string>
+				<string>Siri</string>
+				<string>Sounds</string>
+				<string>Software Update</string>
+				<string>Store</string>
+				<string>Twitter</string>
+				<string>Usage</string>
+				<string>Video</string>
+				<string>VPN</string>
+				<string>Wallpaper</string>
+				<string>WiFi</string>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>None</string>
+				<string>About</string>
+				<string>Accessibility</string>
+				<string>Airplane</string>
+				<string>Brightness</string>
+				<string>Bluetooth</string>
+				<string>Cellular Usage</string>
+				<string>Date And Time</string>
+				<string>FaceTime</string>
+				<string>General</string>
+				<string>Hotspot</string>
+				<string>iCloud</string>
+				<string>iCloud Storage And Backup</string>
+				<string>International</string>
+				<string>Keyboard</string>
+				<string>Location Services</string>
+				<string>Mail Contacts and Calendars</string>
+				<string>Music</string>
+				<string>MusicEq</string>
+				<string>Music Volume</string>
+				<string>Network</string>
+				<string>Nike</string>
+				<string>Notes</string>
+				<string>Notifications</string>
+				<string>Phone</string>
+				<string>Photos</string>
+				<string>Profile</string>
+				<string>Reset</string>
+				<string>Ringtone</string>
+				<string>Safari</string>
+				<string>Siri</string>
+				<string>Sounds</string>
+				<string>Software Update</string>
+				<string>Store</string>
+				<string>Twitter</string>
+				<string>Usage</string>
+				<string>Video</string>
+				<string>VPN</string>
+				<string>Wallpaper</string>
+				<string>WiFi</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>This is just a closer integration with the system. </string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
 </plist>

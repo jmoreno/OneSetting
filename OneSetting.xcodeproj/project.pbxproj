@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5929621D1485C0000015C0EA /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 5929621B1485C0000015C0EA /* Icon-72.png */; };
+		5929621E1485C0000015C0EA /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 5929621C1485C0000015C0EA /* Settings.bundle */; };
 		598E1B4E147C57DB006971BC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 598E1B27147C57DA006971BC /* InfoPlist.strings */; };
 		598E1B4F147C57DB006971BC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 598E1B29147C57DA006971BC /* Localizable.strings */; };
 		598E1B51147C57DB006971BC /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 598E1B2D147C57DA006971BC /* ViewController.xib */; };
@@ -31,10 +33,11 @@
 		59A738241477F6F9007B4922 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A738231477F6F9007B4922 /* AppDelegate.m */; };
 		59A738271477F6F9007B4922 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A738261477F6F9007B4922 /* ViewController.m */; };
 		59A738341477FC0F007B4922 /* JMSettingsConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A738331477FC0F007B4922 /* JMSettingsConst.m */; };
-		59E46AB5147C1E9D0009B143 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 59E46AB4147C1E9D0009B143 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5929621B1485C0000015C0EA /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		5929621C1485C0000015C0EA /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		598E1B28147C57DA006971BC /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = InfoPlist.strings; sourceTree = "<group>"; };
 		598E1B2A147C57DA006971BC /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = Localizable.strings; sourceTree = "<group>"; };
 		598E1B2E147C57DA006971BC /* de */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = de; path = ViewController.xib; sourceTree = "<group>"; };
@@ -65,7 +68,6 @@
 		59A738261477F6F9007B4922 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		59A738321477FC0F007B4922 /* JMSettingsConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMSettingsConst.h; sourceTree = "<group>"; };
 		59A738331477FC0F007B4922 /* JMSettingsConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMSettingsConst.m; sourceTree = "<group>"; };
-		59E46AB4147C1E9D0009B143 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,7 +170,8 @@
 		59A7381A1477F6F9007B4922 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				59E46AB4147C1E9D0009B143 /* Settings.bundle */,
+				5929621B1485C0000015C0EA /* Icon-72.png */,
+				5929621C1485C0000015C0EA /* Settings.bundle */,
 				59A1446B147B375B00A15254 /* Icon-Small-50.png */,
 				59A1446C147B375B00A15254 /* Icon-Small.png */,
 				59A1446D147B375B00A15254 /* Icon-Small@2x.png */,
@@ -241,7 +244,6 @@
 				59A14473147B375B00A15254 /* Icon-Small@2x.png in Resources */,
 				59A14474147B375B00A15254 /* Icon.png in Resources */,
 				59A14475147B375B00A15254 /* Icon@2x.png in Resources */,
-				59E46AB5147C1E9D0009B143 /* Settings.bundle in Resources */,
 				598E1B4E147C57DB006971BC /* InfoPlist.strings in Resources */,
 				598E1B4F147C57DB006971BC /* Localizable.strings in Resources */,
 				598E1B51147C57DB006971BC /* ViewController.xib in Resources */,
@@ -254,6 +256,8 @@
 				598E1B5B147C57DB006971BC /* InfoPlist.strings in Resources */,
 				598E1B5C147C57DB006971BC /* Localizable.strings in Resources */,
 				598E1B5F147C57DB006971BC /* ViewController.xib in Resources */,
+				5929621D1485C0000015C0EA /* Icon-72.png in Resources */,
+				5929621E1485C0000015C0EA /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
